@@ -1,0 +1,23 @@
+{
+  "repo": "veeam-agent-suite-2026",
+  "product": "Veeam Agent Suite 2026",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "backup-recovery",
+  "topics": [
+    "veeam-agent-suite",
+    "veeam-windows",
+    "backup-recovery-desktop",
+    "how-to-install-veeam",
+    "veeam-agent-suite-desktop-package",
+    "veeam-workspace",
+    "veeam-2026",
+    "veeam-agent-suite-pro-tools",
+    "veeam-suite",
+    "zentool-veeam"
+  ],
+  "site": "zentool.art"
+}
